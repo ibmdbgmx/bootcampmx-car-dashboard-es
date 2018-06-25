@@ -1,0 +1,6 @@
+---
+applications:
+- name: bootcampmx-assistant-ES
+  command: npm start
+  path: .
+  memory: 512M
